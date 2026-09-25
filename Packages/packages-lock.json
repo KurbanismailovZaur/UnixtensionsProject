@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.codomaster.unixtensions": {
+      "version": "file:com.codomaster.unixtensions",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.11",
       "depth": 0,
